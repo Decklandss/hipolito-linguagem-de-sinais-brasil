@@ -1,33 +1,33 @@
  
 
 
-> Open this page at [https://decklandss.github.io/hipolito-linguagem-de-sinais-brasil/](https://decklandss.github.io/hipolito-linguagem-de-sinais-brasil/)
+> Abra esta página em [https://decklandss.github.io/hipolito-linguagem-de-sinais-brasil/](https://decklandss.github.io/hipolito-linguagem-de-sinais-brasil/)
 
-## Use as Extension
+## Usar como extensão
 
-This repository can be added as an **extension** in MakeCode.
+Este repositório pode ser adicionado como uma **extensão** no MakeCode.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/decklandss/hipolito-linguagem-de-sinais-brasil** and import
+* abra [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* clique em **Novo Projeto**
+* clique em **Extensões** no menu de roda dentada
+* pesquise por **https://github.com/decklandss/hipolito-linguagem-de-sinais-brasil** e importe
 
-## Edit this project ![Build status badge](https://github.com/decklandss/hipolito-linguagem-de-sinais-brasil/workflows/MakeCode/badge.svg)
+## Edite este projeto ![Emblema de status de construção](https://github.com/decklandss/hipolito-linguagem-de-sinais-brasil/workflows/MakeCode/badge.svg)
 
-To edit this repository in MakeCode.
+Para editar este repositório no MakeCode.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/decklandss/hipolito-linguagem-de-sinais-brasil** and click import
+* abra [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* clique em **Importar** e depois em **Importar URL**
+* cole **https://github.com/decklandss/hipolito-linguagem-de-sinais-brasil** e clique em importar
 
-## Blocks preview
+## Visualização dos blocos
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+Esta imagem mostra o código dos blocos do último commit no master.
+Esta imagem pode levar alguns minutos para atualizar.
 
-![A rendered view of the blocks](https://github.com/decklandss/hipolito-linguagem-de-sinais-brasil/raw/master/.github/makecode/blocks.png)
+![Uma visualização renderizada dos blocos](https://github.com/decklandss/hipolito-linguagem-de-sinais-brasil/raw/master/.github/makecode/blocks.png)
 
-#### Metadata (used for search, rendering)
+#### Metadados (usados ​​para pesquisa, renderização)
 
-* for PXT/arcade
+* para PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
